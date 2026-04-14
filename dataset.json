@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Regional restaurant data for the Killeen-Temple (Metro), Texas metropolitan area, spanning Killeen and Temple. Captures the competitive landscape across city boundaries within a growing metropolitan dining market. Filtered by the Restaurants category group with business profiles, ratings, reviews, and competitive metrics. Refreshed weekly.",
+  "config_name": "All Restaurants in Killeen-Temple (Metro), Texas, US",
+  "export_job_id": "8d17756e-d554-4654-ade8-c29c721133ad",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 646954,
+  "location_name": "Killeen-Temple, TX",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-killeen-temple-metro-texas-us-sample-646954",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/646954/beamstation_646954_restaurants-us-killeentempletx_SAMPLE_DIST.csv",
+  "sample_pct": 3.23,
+  "sample_records": 25,
+  "sample_sha256": "047c73de565988f4c3af1057daffbe63abfd0532d45e291702f8d07d741c8440",
+  "sample_size_bytes": 114801,
+  "total_records": 773,
+  "updated_at": "2026-03-31T14:04:38.550306+00:00"
+}
