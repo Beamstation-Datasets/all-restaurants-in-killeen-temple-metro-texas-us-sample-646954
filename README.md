@@ -1,6 +1,6 @@
 # All Restaurants in Killeen-Temple (Metro), Texas, US
 
-> Free BeamStation sample export with 86 rows and masked direct-contact fields.
+> Free BeamStation sample export with 100 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `646954` |
 | Location | Killeen-Temple, TX |
 | Category | Restaurants |
-| Full dataset size | 867 records |
-| Free sample size | 86 records (9.92%) |
-| Last export | 2026-04-28T16:50:19.129142+00:00 |
+| Full dataset size | 1,003 records |
+| Free sample size | 100 records (9.97%) |
+| Last export | 2026-05-06T16:16:33.323629+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-killeen-temple-metro-texas-us-sample-646954/releases/download/sample-latest/beamstation_646954_restaurants-us-killeentempletx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
