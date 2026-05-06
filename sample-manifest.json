@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a231b8e8-241e-4965-a351-767aab67c28f",
+  "export_job_id": "b44ec857-0f1a-4bc7-8fd6-9da9e94d228a",
   "id_short": 646954,
-  "published_at": "2026-04-28T19:54:45Z",
+  "published_at": "2026-05-06T19:20:21Z",
   "repo_name": "all-restaurants-in-killeen-temple-metro-texas-us-sample-646954",
   "sample_asset_name": "beamstation_646954_restaurants-us-killeentempletx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/646954/beamstation_646954_restaurants-us-killeentempletx_SAMPLE_DIST.csv",
-  "sample_records": 86,
-  "sample_sha256": "021cf5baae460bf31454f72af1f0fae8f711140afdbbe345fc9feef839bfc823",
-  "sample_size_bytes": 309514,
-  "total_records": 867
+  "sample_records": 100,
+  "sample_sha256": "75f645647c8a00a96b020652e54307f4b7037d589eea933c32f2120ddd5fe98b",
+  "sample_size_bytes": 372714,
+  "total_records": 1003
 }
